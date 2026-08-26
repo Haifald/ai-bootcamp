@@ -90,7 +90,6 @@ This trade-off is appropriate for a screening tool where false negatives are mor
 
 False negatives were concentrated near the clinical decision boundary rather than among obvious high-risk cases. Missed positive cases had lower average HbA1c and glucose values than correctly detected positive cases.
 
-![Error analysis](figures/error_analysis.png)
 
 ## Clustering and PCA
 
@@ -102,7 +101,6 @@ The project also includes unsupervised learning and dimensionality reduction:
 
 This suggests that the strongest predictive signal is concentrated in specific clinical features such as HbA1c and glucose, not necessarily in the highest-variance components.
 
-![Clustering and PCA](figures/clustering_pca.png)
 
 ## Repository Structure
 
