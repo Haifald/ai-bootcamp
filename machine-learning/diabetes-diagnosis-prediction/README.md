@@ -143,3 +143,10 @@ Run the notebook from top to bottom.
 - Predictive performance does not prove clinical usefulness.
 - External validation on an independent population is required before real-world use.
 - This model should support triage decisions only, not replace clinical diagnosis.
+
+## Project Team
+
+- Haifa
+- Lena
+- Shumookh
+- Shahad
